@@ -9,7 +9,7 @@ Project-on-Handwritten-Digits-Recognition/2.-Reading-Data/2.3.-Data-Reading-func
 You will see matlab codes for reading files there. One important part of this project is to read the data in format, in order to be ready to feed different algorithms.
 
 Or, you can go to the directory of 
-Project-on-Handwritten-Digits-Recognition/3.-Algorithms-Used
+Project-on-Handwritten-Digits-Recognition/3.-Run-Algorithms-on-the-Data
 to see how we implement different algorithms on the data.
 
 Because this project is based on a particular data set of handwritten digits, the directories before   "2.3.-Data-Reading-functions-written-in-Matlab"
